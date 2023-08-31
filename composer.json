@@ -21,7 +21,7 @@
 		"typo3/cms-core": "^11.5",
 		"wapplersystems/ws-scss": "^11.0",
 		"fluidtypo3/vhs": "^6",
-		"wapplersystems/ws_t3bootstrap": "^11.5.0"
+		"webanug/ws_t3bootstrap": "^11.5.0"
 	},
 	"suggest": {
 	},
