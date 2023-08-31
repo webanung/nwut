@@ -1,0 +1,3 @@
+plugin.tx_calendarize.view.partialRootPath = EXT:nwut/Resources/Private/Extensions/Calendarize/Partials/
+plugin.tx_calendarize.view.templateRootPath = EXT:nwut/Resources/Private/Extensions/Calendarize/Templates/
+plugin.tx_calendarize.view.layoutRootPath = EXT:nwut/Resources/Private/Extensions/Calendarize/Layouts/

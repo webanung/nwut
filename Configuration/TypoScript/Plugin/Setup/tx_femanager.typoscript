@@ -1,0 +1,7 @@
+plugin.tx_femanager {
+  view {
+    partialRootPaths {
+      2 = EXT:nwut/Resources/Private/Extensions/femanager/Partials/
+    }
+  }
+}

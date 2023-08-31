@@ -1,0 +1,7 @@
+plugin.tx_form {
+
+  settings.yamlConfigurations {
+    72 = EXT:nwut/Configuration/Yaml/FormSetup.yaml
+  }
+
+}
