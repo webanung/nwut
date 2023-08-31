@@ -3,11 +3,11 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'NWTU',
-    'description' => 'An example theme',
-    'author' => 'Sven Wappler',
-    'author_email' => 'typo3YYYY@wapplersystems.de',
+    'description' => 'Theme for nwtu.de',
+    'author' => 'Weban UG',
+    'author_email' => 'developer@weban.de',
     'category' => 'misc',
-    'author_company' => 'WapplerSystems',
+    'author_company' => 'WebanUG',
     'shy' => '',
     'conflicts' => '',
     'priority' => '',

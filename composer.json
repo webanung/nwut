@@ -6,12 +6,12 @@
 		"TYPO3",
 		"extension"
 	],
-	"homepage": "https://wappler.systems",
+	"homepage": "https://weban.de",
 	"authors": [
 		{
-			"name": "Sven Wappler",
+			"name": "Lars Tiefland",
 			"role": "Developer",
-			"homepage": "https://wappler.systems"
+			"homepage": "https://weban.de"
 		}
 	],
 	"license": [
